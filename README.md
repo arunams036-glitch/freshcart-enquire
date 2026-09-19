@@ -34,6 +34,7 @@ Instead of directly visiting the shop to check product availability or details, 
 - **HTML5** – Website structure
 - **CSS3** – Styling and responsive design
 - **JavaScript** – Interactivity and functionality
+  Live Demo Link:https://fresh-list-enquire.lovable.app/
 
 ## 📂 Project Structure
 
@@ -54,4 +55,4 @@ M.S. Aruna
 3rd Year – Electrical and Electronics Engineering (EEE)
 📄 License
 This project is developed for educational and demonstration purposes.
-https://fresh-list-enquire.lovable.app/[](url)
+
